@@ -1,0 +1,11 @@
+/Users/jledbetter/code/learning/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook
+/Users/jledbetter/code/learning/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.deps.json
+/Users/jledbetter/code/learning/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.json
+/Users/jledbetter/code/learning/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.dev.json
+/Users/jledbetter/code/learning/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.dll
+/Users/jledbetter/code/learning/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.pdb
+/Users/jledbetter/code/learning/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.csprojAssemblyReference.cache
+/Users/jledbetter/code/learning/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfoInputs.cache
+/Users/jledbetter/code/learning/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfo.cs
+/Users/jledbetter/code/learning/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.dll
+/Users/jledbetter/code/learning/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.pdb

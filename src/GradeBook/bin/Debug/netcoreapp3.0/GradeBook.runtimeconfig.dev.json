@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/jledbetter/.dotnet/store/|arch|/|tfm|",
+      "/Users/jledbetter/.nuget/packages"
+    ]
+  }
+}
